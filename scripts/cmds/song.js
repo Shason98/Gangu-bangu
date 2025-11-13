@@ -24,7 +24,7 @@ module.exports = {
       en: "  {pn} [<video name>|<video link>]: use to download audio from YouTube."
           + "\n   Example:"
           + "\n {pn} despacito"
-          + "\n {pn} https://youtu.be/abc123xyz",
+          + "\n {pn} https://www.youtube.com/",
     },
   },
 
